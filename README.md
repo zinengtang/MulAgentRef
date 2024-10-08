@@ -9,29 +9,17 @@
 ## Table of Contents
 
 - [📖 Introduction](#-introduction)
-- [🚀 Features](#-features)
 - [📁 Dataset](#-dataset)
 - [⚙️ Installation](#️-installation)
 - [🛠️ Usage](#️-usage)
 - [📊 Evaluation](#-evaluation)
-- [📄 License](#-license)
 - [📚 Citation](#-citation)
-- [📬 Contact](#-contact)
 
 ## 📖 Introduction
 
 **** is a comprehensive dataset and platform designed to facilitate research in multi-perspective referential communication within photorealistic 3D environments. This project enables the study of how embodied agents (both human and AI) communicate about their surroundings from different viewpoints, aiming to achieve *communicative success*—where the listener accurately understands the speaker's intended referent.
 
 ![PersRefEx Overview](figs/teaser.png)
-
-## 🚀 Features
-
-- **Multi-Perspective Communication:** Simulates scenarios where speaker and listener have different viewpoints within the same 3D environment.
-- **Photorealistic 3D Environments:** Utilizes neural radiance fields (NeRF) for realistic scene generation.
-- **Comprehensive Dataset:** Large-scale collection of referential expressions and corresponding 3D scenes.
-- **Model Benchmarking:** Evaluation of state-of-the-art vision-language models against human performance.
-- **Interactive Tools:** Platform to adjust task difficulty and agent configurations for diverse research needs.
-- **Open-Source:** Fully open for community contributions, enhancements, and integrations.
 
 ## 📁 Dataset
 Coming Soon...
