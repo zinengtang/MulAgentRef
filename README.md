@@ -18,9 +18,9 @@
 ## 📖 Introduction
 
 PersRefEx is a comprehensive dataset and platform designed to facilitate research in multi-perspective referential communication within photorealistic 3D environments. This project enables the study of how embodied agents (both human and AI) communicate about their surroundings from different viewpoints, aiming to achieve *communicative success*—where the listener accurately understands the speaker's intended referent.
-
+<div style="text-align: center;">
 <img src="assets/teaser.jpg" width="400" class="center"/>
-
+</div>
 ## 📁 Dataset
 Coming Soon...
 
