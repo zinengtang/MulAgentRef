@@ -43,3 +43,16 @@ The SceneSpeak dataset comprises:
 - **2,970** human-written referring expressions.
 - **1,485** generated 3D scenes.
 - **27,504** sampled scenes with varying agent perspectives and referent placements.
+
+### Citation
+```
+@misc{tang2024groundinglanguagemultiperspectivereferential,
+      title={Grounding Language in Multi-Perspective Referential Communication}, 
+      author={Zineng Tang and Lingjun Mao and Alane Suhr},
+      year={2024},
+      eprint={2410.03959},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.03959}, 
+}
+```
