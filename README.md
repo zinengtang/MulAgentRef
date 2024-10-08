@@ -26,7 +26,7 @@ Coming Soon...
 
 ### Overview
 
-The SceneSpeak dataset comprises:
+The PersRefEx dataset comprises:
 
 - **2,970** human-written referring expressions.
 - **1,485** generated 3D scenes.
