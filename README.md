@@ -19,7 +19,7 @@
 
 **** is a comprehensive dataset and platform designed to facilitate research in multi-perspective referential communication within photorealistic 3D environments. This project enables the study of how embodied agents (both human and AI) communicate about their surroundings from different viewpoints, aiming to achieve *communicative success*—where the listener accurately understands the speaker's intended referent.
 
-![PersRefEx Overview](figs/teaser.png)
+![PersRefEx Overview](figs/teaser.pdf)
 
 ## 📁 Dataset
 Coming Soon...
