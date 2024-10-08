@@ -29,7 +29,7 @@ Coming Soon...
 The PersRefEx dataset comprises:
 
 - **2,970** human-written referring expressions.
-- **1,485** generated 3D scenes.
+- **1,485** generated scenes.
 - **27,504** sampled scenes with varying agent perspectives and referent placements.
 
 ### Citation
