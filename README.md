@@ -19,9 +19,7 @@ PersRefEx is a comprehensive dataset and platform designed to facilitate researc
 <img src="assets/teaser.jpg" width="400" class="center"/>
 </p>
 
-## 📁 Dataset
-
-###[Huggingface Datasets](https://huggingface.co/datasets/ZinengTang/PersReFex)###
+## 📁 Dataset [Huggingface Datasets](https://huggingface.co/datasets/ZinengTang/PersReFex)
 
 ### Overview
 
