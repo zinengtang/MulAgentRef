@@ -21,6 +21,11 @@ PersRefEx is a comprehensive dataset and platform designed to facilitate researc
 
 ## 📁 Dataset [Huggingface Datasets](https://huggingface.co/datasets/ZinengTang/PersReFex)
 
+```
+from datasets import load_dataset, Audio
+
+dataset = load_dataset("ZinengTang/PersReFex", split="validation")
+```
 ### Overview
 
 The PersRefEx dataset comprises:
