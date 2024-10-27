@@ -10,9 +10,6 @@
 
 - [📖 Introduction](#-introduction)
 - [📁 Dataset](#-dataset)
-- [⚙️ Installation](#️-installation)
-- [🛠️ Usage](#️-usage)
-- [📊 Evaluation](#-evaluation)
 - [📚 Citation](#-citation)
 
 ## 📖 Introduction
