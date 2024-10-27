@@ -1,5 +1,5 @@
 # PersRefEx
-## Dataset Coming Soon...
+## Dataset
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)
@@ -22,7 +22,10 @@ PersRefEx is a comprehensive dataset and platform designed to facilitate researc
 <img src="assets/teaser.jpg" width="400" class="center"/>
 </p>
 ## 📁 Dataset
-Coming Soon...
+
+(Huggingface Dataset)[https://huggingface.co/datasets/ZinengTang/PersReFex]
+
+(Google Drive)[https://drive.google.com/drive/folders/19-8eBi4JJ_sU0qKsQ31dE3743NE--4bv?usp=drive_link]
 
 ### Overview
 
