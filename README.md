@@ -21,7 +21,7 @@ PersRefEx is a comprehensive dataset and platform designed to facilitate researc
 
 ## 📁 Dataset
 
-[Google Drive](https://drive.google.com/drive/folders/19-8eBi4JJ_sU0qKsQ31dE3743NE--4bv?usp=drive_link)
+[Huggingface Datasets](https://huggingface.co/datasets/ZinengTang/PersReFex)
 
 ### Overview
 
