@@ -26,6 +26,9 @@ from datasets import load_dataset, Audio
 
 dataset = load_dataset("ZinengTang/PersReFex", split="validation")
 ```
+
+## Finetuned model with PPO [Huggingface Models](https://huggingface.co/ZinengTang/llava-lora-spatial)
+
 ### Overview
 
 The PersRefEx dataset comprises:
