@@ -29,6 +29,8 @@ dataset = load_dataset("ZinengTang/PersReFex", split="validation")
 
 ## Finetuned model with PPO [Huggingface Models](https://huggingface.co/ZinengTang/llava-lora-spatial)
 
+Follow the instructions in the huggingface page
+
 ### Overview
 
 The PersRefEx dataset comprises:
